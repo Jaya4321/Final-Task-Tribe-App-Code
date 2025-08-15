@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "522961458250",
+    "project_id": "final-imp",
+    "storage_bucket": "final-imp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522961458250:android:c920870128499097a142b3",
+        "android_client_info": {
+          "package_name": "com.task.tribe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfl1as1Hl_eMyOfNND4b3318WFNYkFEys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
