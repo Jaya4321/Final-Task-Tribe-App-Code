@@ -1,6 +1,6 @@
 # task_tribe_app
 
-A new Flutter project.
+A new Flutter project along with firebase.
 
 ## Getting Started
 
